@@ -29,4 +29,4 @@ Trabajaremos con dos escenarios reales:
 ![alt text](image-6.png)
 
 # IMAGEN GENERADA 0093
-![alt text](caso1-titanic/resultados/nulos_titanic.png)
+![nulos_titanic.png](nulos_titanic.png)
